@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/listshow/listshow",
+    "pages/list/list",
+    "pages/repsw/repsw",
+    "pages/myinfo/myinfo",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
